@@ -29,10 +29,10 @@
 <!-- 统计卡片 并排 -->
 <p align="center">
   <a href="https://github.com/T-CrB">
-    <img height="200" src="https://github-readme-stats-4yei.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight" />
+    <img height="200" src="https://github-readme-stats-4yei.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight&card_width=400" />
   </a>
   <a href="https://github.com/T-CrB">
-    <img height="200" src="https://github-readme-stats-4yei.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
+    <img height="200" src="https://github-readme-stats-4yei.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight&card_width=400" />
   </a>
 </p>
 
