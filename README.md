@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [T-CrB]
+<!--# 👋 Hi, I'm [T-CrB]-->
 
 <!-- 打字机动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I%27m+T-CrB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I%27m+T-CrB;%F0%9F%92%BB+Backend+Developer;%F0%9F%94%93+Open+Source+Lover&font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF)](https://git.io/typing-svg)
 
 <!--
 ## 🛠️ Tech Stack
