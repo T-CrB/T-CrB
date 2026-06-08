@@ -14,10 +14,10 @@
 
 <!-- 统计卡片 并排 -->
 <a href="https://github.com/T-CrB">
-  <img height=200 align="center" src="https://https://github-readme-stats-4yei.vercel.app//api?username=T-CrB&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://https://github-readme-stats-4yei.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/T-CrB">
-  <img height=200 align="center" src="https://https://github-readme-stats-4yei.vercel.app//api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://https://github-readme-stats-4yei.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
 </a>
 
 <!-- 火焰贡献卡 -->
