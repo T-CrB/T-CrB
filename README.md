@@ -3,14 +3,14 @@
 <!-- 打字机动画 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Open+Source+Lover;CTF+Player;Python+%7C+Go+%7C+Rust)](https://git.io/typing-svg)
 
-```
+<!--
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-```
+-->
 
 <!-- 统计卡片 并排 -->
 <a href="https://github.com/T-CrB">
@@ -22,10 +22,11 @@
 
 <!-- 火焰贡献卡 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=T-CrB)](https://git.io/streak-stats)
-```
+
 <!-- 奖杯墙 -->
+<!--
 [![trophy](https://你的trophy域名.vercel.app/?username=你的用户名&theme=tokyonight&row=1&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-```
+-->
 
 ---
 
