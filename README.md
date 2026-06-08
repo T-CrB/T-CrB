@@ -13,7 +13,12 @@
 -->
 
 <!-- 统计卡片 并排 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?username=T-CrB)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/你的用户名">
+  <img height=200 align="center" src="https://github-readme-stats-4yei.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/你的用户名">
+  <img height=200 align="center" src="https://github-readme-stats-4yei.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
+</a>
 <!-- 火焰贡献卡 -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=T-CrB)](https://git.io/streak-stats)
 
