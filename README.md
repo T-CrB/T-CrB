@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [T-CrB]
 
 <!-- 打字机动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Open+Source+Lover;CTF+Player;Python+%7C+Go+%7C+Rust)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Hi%2C+I%27m+T-CrB)](https://git.io/typing-svg)
 
 <!--
 ## 🛠️ Tech Stack
