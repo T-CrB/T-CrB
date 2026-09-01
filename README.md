@@ -11,9 +11,9 @@
 <!-- 社交徽章 -->
 <p align="center">
   <a href="https://github.com/T-CrB">
-    <img src="https://img.shields.io/github/followers/T-CrB?style=for-the-badge&logo=github&label=Followers&color=58A6FF" />
+    <img src="https://img.shields.io/github/followers/T-CrB?style=flat&logo=github&label=Followers&color=58A6FF" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=T-CrB.T-CrB&format=true" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=T-CrB.T-CrB&format=true&left_color=gray&right_color=58A6FF" />
 </p>
 
 ---
@@ -44,15 +44,6 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=T-CrB&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophy
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=T-CrB&theme=tokyonight&row=2&column=4&margin-w=8&margin-h=8" />
   </a>
 </p>
 
