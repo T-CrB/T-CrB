@@ -31,21 +31,21 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
-  <a href="https://github.com/T-CrB">
-    <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/github-stats.png" />
-  </a>
-  <a href="https://github.com/T-CrB">
-    <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/top-langs.png" />
-  </a>
-</div>
-
-<!-- 火焰贡献卡 -->
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+  <!-- 左：streak 火焰卡 -->
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=T-CrB&theme=tokyonight" />
   </a>
-</p>
+  <!-- 右列：上 stats 下 top-langs -->
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    <a href="https://github.com/T-CrB">
+      <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/github-stats.png" />
+    </a>
+    <a href="https://github.com/T-CrB">
+      <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/top-langs.png" />
+    </a>
+  </div>
+</div>
 
 ---
 
