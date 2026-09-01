@@ -31,21 +31,16 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px; flex-wrap: wrap;">
+<p align="center">
   <!-- 左：streak 火焰卡 -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=T-CrB&theme=tokyonight" />
+    <img align="middle" src="https://streak-stats.demolab.com/?user=T-CrB&theme=tokyonight" />
   </a>
-  <!-- 右列：上 stats 下 top-langs -->
-  <div style="display: flex; flex-direction: column; gap: 12px;">
-    <a href="https://github.com/T-CrB">
-      <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/github-stats.png" />
-    </a>
-    <a href="https://github.com/T-CrB">
-      <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/top-langs.png" />
-    </a>
-  </div>
-</div>
+  <!-- 右列（合成图）：上 stats 下 top-langs -->
+  <a href="https://github.com/T-CrB">
+    <img align="middle" src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/right-column.png" />
+  </a>
+</p>
 
 ---
 
