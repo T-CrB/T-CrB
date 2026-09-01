@@ -31,14 +31,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
   <a href="https://github.com/T-CrB">
     <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/github-stats.png" />
   </a>
   <a href="https://github.com/T-CrB">
     <img src="https://raw.githubusercontent.com/T-CrB/T-CrB/main/assets/top-langs.png" />
   </a>
-</p>
+</div>
 
 <!-- 火焰贡献卡 -->
 <p align="center">
@@ -50,7 +50,12 @@
 ---
 
 ## 🌟 Codeforces
-- 🌟 **Codeforces**: [T-CrB](https://codeforces.com/profile/T_CrB) (max rating: 1711)
+<p align="center">
+  <a href="https://codeforces.com/profile/T_CrB">
+    <img src="https://img.shields.io/badge/Codeforces-T--CrB-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Max%20Rating-1711-1F8ACB?style=for-the-badge" />
+</p>
 
 ---
 
