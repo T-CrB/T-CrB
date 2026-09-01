@@ -1,0 +1,8 @@
+# Reasonix agent workspace
+.reasonix/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/

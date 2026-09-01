@@ -2,19 +2,23 @@
 <h2 align="center">
   <span style="font-family: Fira Code, monospace; color: #58A6FF;">👋 Hi, I'm T-CrB</span>
 </h2>
-<!--分割线-->
-<hr style="height: 3px; background: #58A6FF; border: none;">
+
 <!-- 打字机动画 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=%E2%96%B8+C%2B%2B++%E2%96%B8+ACM++%E2%96%B8+Math&font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF" />
 </p>
 
----
-<!--CF-->
-- 🌟 **Codeforces**: [T-CrB](https://codeforces.com/profile/T_CrB) (max rating: 1711)
+<!-- 社交徽章 -->
+<p align="center">
+  <a href="https://github.com/T-CrB">
+    <img src="https://img.shields.io/github/followers/T-CrB?style=for-the-badge&logo=github&label=Followers&color=58A6FF" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=T-CrB.T-CrB&format=true" />
+</p>
+
 ---
 
-## 🛠️ 
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -26,29 +30,42 @@
 
 ---
 
-<!-- 统计卡片 并排 -->
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/T-CrB">
-    <img width="400" height="200" src="https://github-readme-stats-4yei.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight&hide_rank=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true" />
   </a>
   <a href="https://github.com/T-CrB">
-    <img width="400" height="200" src="https://github-readme-stats-4yei.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-CrB&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
----
 <!-- 火焰贡献卡 -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=T-CrB&theme=dark" />
+    <img src="https://streak-stats.demolab.com/?user=T-CrB&theme=tokyonight" />
   </a>
 </p>
 
-<!-- 奖杯墙 -->
-<!--
-[![trophy](https://你的trophy域名.vercel.app/?username=你的用户名&theme=tokyonight&row=1&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
--->
+---
+
+## 🏆 GitHub Trophy
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=T-CrB&theme=tokyonight&row=2&column=4&margin-w=8&margin-h=8" />
+  </a>
+</p>
 
 ---
 
-⭐️ From [T-CrB](https://github.com/T-CrB)
+## 🌟 Codeforces
+- 🌟 **Codeforces**: [T-CrB](https://codeforces.com/profile/T_CrB) (max rating: 1711)
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20T--CrB-58A6FF?style=for-the-badge" />
+</p>
+<p align="center">
+  ⭐️ From [T-CrB](https://github.com/T-CrB)
+</p>
