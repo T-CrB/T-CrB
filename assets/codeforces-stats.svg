@@ -24,7 +24,7 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/1915/problem/G"><text x="75" y="170" class="value" textLength="470" lengthAdjust="spacingAndGlyphs">1915G · Bicycles</text></a>
+  <a href="https://codeforces.com/contest/1915/problem/G"><text x="75" y="170" class="value">1915G · Bicycles</text></a>
   <text x="590" y="170" class="points">—</text>
   <text x="665" y="170" class="muted">2026-09-09 21:49</text>
   <text x="75" y="205" class="muted">Remaining entries will appear after the next refresh</text>

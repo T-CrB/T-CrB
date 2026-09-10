@@ -86,7 +86,7 @@ def build_rows(submissions: list[dict]) -> str:
         y = 170 + (number - 1) * 30
         rows.append(
             f'''  <text x="30" y="{y}" class="muted">{number:02d}</text>
-  <a href="{esc(link)}"><text x="75" y="{y}" class="value" textLength="470" lengthAdjust="spacingAndGlyphs">{esc(problem)}</text></a>
+  <a href="{esc(link)}"><text x="75" y="{y}" class="value">{esc(problem)}</text></a>
   <text x="590" y="{y}" class="points">{esc(points)}</text>
   <text x="665" y="{y}" class="muted">{esc(when)}</text>'''
         )

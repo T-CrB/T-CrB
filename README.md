@@ -24,8 +24,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=T-CrB&show_icons=true&theme=tokyonight&hide_border=true" alt="T-CrB's GitHub Stats" />
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=T-CrB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="./assets/github-stats.svg" alt="T-CrB's GitHub Stats and Most Used Languages" />
 </div>
 
 ---
