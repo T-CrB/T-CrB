@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,python&perline=4" alt="C, C++, Python and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,git&perline=5" alt="C, C++, Python, Git and Visual Studio Code" />
 </div>
 
 ---
