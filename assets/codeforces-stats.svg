@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/105911/problem/F"><text x="75" y="170" class="value">105911F · Caloric Difference</text></a>
+  <a href="https://codeforces.com/contest/1999/problem/G1"><text x="75" y="170" class="value">1999G1 · Ruler (easy version)</text></a>
   <text x="590" y="170" class="points">—</text>
-  <text x="665" y="170" class="muted">2026-10-12 20:38</text>
+  <text x="665" y="170" class="muted">2026-10-13 19:31</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/2262/problem/B"><text x="75" y="200" class="value">2262B · Culling Game</text></a>
-  <text x="590" y="200" class="points">1750</text>
-  <text x="665" y="200" class="muted">2026-10-12 19:51</text>
+  <a href="https://codeforces.com/contest/1999/problem/G2"><text x="75" y="200" class="value">1999G2 · Ruler (hard version)</text></a>
+  <text x="590" y="200" class="points">—</text>
+  <text x="665" y="200" class="muted">2026-10-13 19:29</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/2244/problem/G"><text x="75" y="230" class="value">2244G · Yura and Deadlines</text></a>
+  <a href="https://codeforces.com/contest/2000/problem/F"><text x="75" y="230" class="value">2000F · Color Rows and Columns</text></a>
   <text x="590" y="230" class="points">—</text>
-  <text x="665" y="230" class="muted">2026-10-12 09:46</text>
+  <text x="665" y="230" class="muted">2026-10-13 19:07</text>
   <text x="30" y="260" class="muted">04</text>
-  <a href="https://codeforces.com/contest/2154/problem/D"><text x="75" y="260" class="value">2154D · Catshock</text></a>
-  <text x="590" y="260" class="points">1750</text>
-  <text x="665" y="260" class="muted">2026-10-12 09:30</text>
+  <a href="https://codeforces.com/contest/105911/problem/F"><text x="75" y="260" class="value">105911F · Caloric Difference</text></a>
+  <text x="590" y="260" class="points">—</text>
+  <text x="665" y="260" class="muted">2026-10-12 20:38</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/2244/problem/G"><text x="75" y="290" class="value">2244G · Yura and Deadlines</text></a>
-  <text x="590" y="290" class="points">—</text>
-  <text x="665" y="290" class="muted">2026-10-12 00:38</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-10-13 18:24 UTC+8</text>
+  <a href="https://codeforces.com/contest/2262/problem/B"><text x="75" y="290" class="value">2262B · Culling Game</text></a>
+  <text x="590" y="290" class="points">1750</text>
+  <text x="665" y="290" class="muted">2026-10-12 19:51</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-10-14 01:45 UTC+8</text>
 </svg>
