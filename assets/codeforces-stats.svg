@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/607/problem/B"><text x="75" y="170" class="value">607B · Zuma</text></a>
-  <text x="590" y="170" class="points">1250</text>
-  <text x="665" y="170" class="muted">2026-10-22 14:01</text>
+  <a href="https://codeforces.com/contest/2277/problem/D1"><text x="75" y="170" class="value">2277D1 · Number Operating (Easy Version)</text></a>
+  <text x="590" y="170" class="points">2000</text>
+  <text x="665" y="170" class="muted">2026-10-25 01:10</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/2033/problem/G"><text x="75" y="200" class="value">2033G · Sakurako and Chefir</text></a>
-  <text x="590" y="200" class="points">—</text>
-  <text x="665" y="200" class="muted">2026-10-22 14:01</text>
+  <a href="https://codeforces.com/contest/2277/problem/D2"><text x="75" y="200" class="value">2277D2 · Number Operating (Hard Version)</text></a>
+  <text x="590" y="200" class="points">2250</text>
+  <text x="665" y="200" class="muted">2026-10-25 01:10</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/2033/problem/G"><text x="75" y="230" class="value">2033G · Sakurako and Chefir</text></a>
-  <text x="590" y="230" class="points">—</text>
-  <text x="665" y="230" class="muted">2026-10-22 13:59</text>
+  <a href="https://codeforces.com/contest/2277/problem/C"><text x="75" y="230" class="value">2277C · Edge Addeleting</text></a>
+  <text x="590" y="230" class="points">1500</text>
+  <text x="665" y="230" class="muted">2026-10-25 00:31</text>
   <text x="30" y="260" class="muted">04</text>
   <a href="https://codeforces.com/contest/607/problem/B"><text x="75" y="260" class="value">607B · Zuma</text></a>
   <text x="590" y="260" class="points">1250</text>
-  <text x="665" y="260" class="muted">2026-10-22 13:49</text>
+  <text x="665" y="260" class="muted">2026-10-22 14:01</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/2261/problem/E"><text x="75" y="290" class="value">2261E · What Does the Cow Say?</text></a>
-  <text x="590" y="290" class="points">2000</text>
-  <text x="665" y="290" class="muted">2026-10-22 00:40</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-10-24 22:48 UTC+8</text>
+  <a href="https://codeforces.com/contest/2033/problem/G"><text x="75" y="290" class="value">2033G · Sakurako and Chefir</text></a>
+  <text x="590" y="290" class="points">—</text>
+  <text x="665" y="290" class="muted">2026-10-22 14:01</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-10-25 01:59 UTC+8</text>
 </svg>
