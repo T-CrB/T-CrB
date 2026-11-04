@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/105562/problem/D"><text x="75" y="170" class="value">105562D · Dutch Democracy</text></a>
-  <text x="590" y="170" class="points">—</text>
-  <text x="665" y="170" class="muted">2026-11-03 12:03</text>
+  <a href="https://codeforces.com/contest/1037/problem/D"><text x="75" y="170" class="value">1037D · Valid BFS?</text></a>
+  <text x="590" y="170" class="points">1500</text>
+  <text x="665" y="170" class="muted">2026-11-04 18:33</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/105562/problem/E"><text x="75" y="200" class="value">105562E · Evolving Etymology</text></a>
+  <a href="https://codeforces.com/contest/105562/problem/K"><text x="75" y="200" class="value">105562K · Kruidnoten</text></a>
   <text x="590" y="200" class="points">—</text>
-  <text x="665" y="200" class="muted">2026-11-03 11:20</text>
+  <text x="665" y="200" class="muted">2026-11-04 15:51</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/105562/problem/L"><text x="75" y="230" class="value">105562L · Limited Library</text></a>
+  <a href="https://codeforces.com/contest/105562/problem/D"><text x="75" y="230" class="value">105562D · Dutch Democracy</text></a>
   <text x="590" y="230" class="points">—</text>
-  <text x="665" y="230" class="muted">2026-11-03 11:10</text>
+  <text x="665" y="230" class="muted">2026-11-03 12:03</text>
   <text x="30" y="260" class="muted">04</text>
-  <a href="https://codeforces.com/contest/105562/problem/J"><text x="75" y="260" class="value">105562J · Jib Job</text></a>
+  <a href="https://codeforces.com/contest/105562/problem/E"><text x="75" y="260" class="value">105562E · Evolving Etymology</text></a>
   <text x="590" y="260" class="points">—</text>
-  <text x="665" y="260" class="muted">2026-11-03 11:09</text>
+  <text x="665" y="260" class="muted">2026-11-03 11:20</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/105562/problem/H"><text x="75" y="290" class="value">105562H · Hash Collision</text></a>
+  <a href="https://codeforces.com/contest/105562/problem/L"><text x="75" y="290" class="value">105562L · Limited Library</text></a>
   <text x="590" y="290" class="points">—</text>
-  <text x="665" y="290" class="muted">2026-11-03 11:09</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-11-04 11:08 UTC+8</text>
+  <text x="665" y="290" class="muted">2026-11-03 11:10</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-11-04 19:27 UTC+8</text>
 </svg>
