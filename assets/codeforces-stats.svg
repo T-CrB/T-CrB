@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/768/problem/B"><text x="75" y="170" class="value">768B · Code For 1</text></a>
-  <text x="590" y="170" class="points">1000</text>
-  <text x="665" y="170" class="muted">2026-11-13 18:58</text>
+  <a href="https://codeforces.com/contest/1955/problem/E"><text x="75" y="170" class="value">1955E · Long Inversions</text></a>
+  <text x="590" y="170" class="points">—</text>
+  <text x="665" y="170" class="muted">2026-11-14 23:23</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/1385/problem/D"><text x="75" y="200" class="value">1385D · a-Good String</text></a>
-  <text x="590" y="200" class="points">—</text>
-  <text x="665" y="200" class="muted">2026-11-13 18:57</text>
+  <a href="https://codeforces.com/contest/559/problem/B"><text x="75" y="200" class="value">559B · Equivalent Strings</text></a>
+  <text x="590" y="200" class="points">1000</text>
+  <text x="665" y="200" class="muted">2026-11-14 23:00</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/550/problem/B"><text x="75" y="230" class="value">550B · Preparing Olympiad</text></a>
-  <text x="590" y="230" class="points">750</text>
-  <text x="665" y="230" class="muted">2026-11-13 18:55</text>
+  <a href="https://codeforces.com/contest/768/problem/B"><text x="75" y="230" class="value">768B · Code For 1</text></a>
+  <text x="590" y="230" class="points">1000</text>
+  <text x="665" y="230" class="muted">2026-11-13 18:58</text>
   <text x="30" y="260" class="muted">04</text>
-  <a href="https://codeforces.com/contest/189/problem/A"><text x="75" y="260" class="value">189A · Cut Ribbon</text></a>
-  <text x="590" y="260" class="points">500</text>
-  <text x="665" y="260" class="muted">2026-11-13 15:43</text>
+  <a href="https://codeforces.com/contest/1385/problem/D"><text x="75" y="260" class="value">1385D · a-Good String</text></a>
+  <text x="590" y="260" class="points">—</text>
+  <text x="665" y="260" class="muted">2026-11-13 18:57</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/1097/problem/B"><text x="75" y="290" class="value">1097B · Petr and a Combination Lock</text></a>
-  <text x="590" y="290" class="points">1000</text>
-  <text x="665" y="290" class="muted">2026-11-13 15:23</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-11-14 18:06 UTC+8</text>
+  <a href="https://codeforces.com/contest/550/problem/B"><text x="75" y="290" class="value">550B · Preparing Olympiad</text></a>
+  <text x="590" y="290" class="points">750</text>
+  <text x="665" y="290" class="muted">2026-11-13 18:55</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-11-15 00:41 UTC+8</text>
 </svg>
