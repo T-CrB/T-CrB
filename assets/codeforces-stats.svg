@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/2285/problem/C"><text x="75" y="170" class="value">2285C · Max Substitution</text></a>
-  <text x="590" y="170" class="points">1500</text>
-  <text x="665" y="170" class="muted">2026-11-15 23:09</text>
+  <a href="https://codeforces.com/contest/2285/problem/D"><text x="75" y="170" class="value">2285D · Reverse Partition</text></a>
+  <text x="590" y="170" class="points">2000</text>
+  <text x="665" y="170" class="muted">2026-11-16 08:09</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/2285/problem/B"><text x="75" y="200" class="value">2285B · Diverse String</text></a>
-  <text x="590" y="200" class="points">1250</text>
-  <text x="665" y="200" class="muted">2026-11-15 22:56</text>
+  <a href="https://codeforces.com/contest/2285/problem/C"><text x="75" y="200" class="value">2285C · Max Substitution</text></a>
+  <text x="590" y="200" class="points">1500</text>
+  <text x="665" y="200" class="muted">2026-11-15 23:09</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/2285/problem/A"><text x="75" y="230" class="value">2285A · Composite Permutation</text></a>
-  <text x="590" y="230" class="points">500</text>
-  <text x="665" y="230" class="muted">2026-11-15 22:40</text>
+  <a href="https://codeforces.com/contest/2285/problem/B"><text x="75" y="230" class="value">2285B · Diverse String</text></a>
+  <text x="590" y="230" class="points">1250</text>
+  <text x="665" y="230" class="muted">2026-11-15 22:56</text>
   <text x="30" y="260" class="muted">04</text>
-  <a href="https://codeforces.com/contest/768/problem/B"><text x="75" y="260" class="value">768B · Code For 1</text></a>
-  <text x="590" y="260" class="points">1000</text>
-  <text x="665" y="260" class="muted">2026-11-15 19:02</text>
+  <a href="https://codeforces.com/contest/2285/problem/A"><text x="75" y="260" class="value">2285A · Composite Permutation</text></a>
+  <text x="590" y="260" class="points">500</text>
+  <text x="665" y="260" class="muted">2026-11-15 22:40</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/1955/problem/E"><text x="75" y="290" class="value">1955E · Long Inversions</text></a>
-  <text x="590" y="290" class="points">—</text>
-  <text x="665" y="290" class="muted">2026-11-14 23:23</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-11-16 04:56 UTC+8</text>
+  <a href="https://codeforces.com/contest/768/problem/B"><text x="75" y="290" class="value">768B · Code For 1</text></a>
+  <text x="590" y="290" class="points">1000</text>
+  <text x="665" y="290" class="muted">2026-11-15 19:02</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-11-16 08:54 UTC+8</text>
 </svg>
