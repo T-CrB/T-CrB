@@ -24,24 +24,24 @@
   <text x="590" y="155" class="label">Points</text>
   <text x="665" y="155" class="label">Time (UTC+8)</text>
   <text x="30" y="170" class="muted">01</text>
-  <a href="https://codeforces.com/contest/2112/problem/C"><text x="75" y="170" class="value">2112C · Coloring Game</text></a>
+  <a href="https://codeforces.com/contest/2275/problem/G"><text x="75" y="170" class="value">2275G · Copper Squander</text></a>
   <text x="590" y="170" class="points">—</text>
-  <text x="665" y="170" class="muted">2026-11-16 20:12</text>
+  <text x="665" y="170" class="muted">2026-11-18 23:07</text>
   <text x="30" y="200" class="muted">02</text>
-  <a href="https://codeforces.com/contest/2193/problem/D"><text x="75" y="200" class="value">2193D · Monster Game</text></a>
+  <a href="https://codeforces.com/contest/2112/problem/C"><text x="75" y="200" class="value">2112C · Coloring Game</text></a>
   <text x="590" y="200" class="points">—</text>
-  <text x="665" y="200" class="muted">2026-11-16 19:47</text>
+  <text x="665" y="200" class="muted">2026-11-16 20:12</text>
   <text x="30" y="230" class="muted">03</text>
-  <a href="https://codeforces.com/contest/2285/problem/D"><text x="75" y="230" class="value">2285D · Reverse Partition</text></a>
-  <text x="590" y="230" class="points">2000</text>
-  <text x="665" y="230" class="muted">2026-11-16 08:09</text>
+  <a href="https://codeforces.com/contest/2193/problem/D"><text x="75" y="230" class="value">2193D · Monster Game</text></a>
+  <text x="590" y="230" class="points">—</text>
+  <text x="665" y="230" class="muted">2026-11-16 19:47</text>
   <text x="30" y="260" class="muted">04</text>
-  <a href="https://codeforces.com/contest/2285/problem/C"><text x="75" y="260" class="value">2285C · Max Substitution</text></a>
-  <text x="590" y="260" class="points">1500</text>
-  <text x="665" y="260" class="muted">2026-11-15 23:09</text>
+  <a href="https://codeforces.com/contest/2285/problem/D"><text x="75" y="260" class="value">2285D · Reverse Partition</text></a>
+  <text x="590" y="260" class="points">2000</text>
+  <text x="665" y="260" class="muted">2026-11-16 08:09</text>
   <text x="30" y="290" class="muted">05</text>
-  <a href="https://codeforces.com/contest/2285/problem/B"><text x="75" y="290" class="value">2285B · Diverse String</text></a>
-  <text x="590" y="290" class="points">1250</text>
-  <text x="665" y="290" class="muted">2026-11-15 22:56</text>
-  <text x="30" y="340" class="muted">Last refreshed: 2026-11-18 18:35 UTC+8</text>
+  <a href="https://codeforces.com/contest/2285/problem/C"><text x="75" y="290" class="value">2285C · Max Substitution</text></a>
+  <text x="590" y="290" class="points">1500</text>
+  <text x="665" y="290" class="muted">2026-11-15 23:09</text>
+  <text x="30" y="340" class="muted">Last refreshed: 2026-11-19 03:18 UTC+8</text>
 </svg>
