@@ -18,27 +18,27 @@
   <text x="575" y="48" class="title">Most Used Languages</text>
   <text x="575" y="68" class="language-note">Public repositories (including forks) · by code bytes</text>
 <text x="30" y="113" class="label">Total Stars Earned</text><text x="425" y="113" class="value" text-anchor="end">3</text>
-<text x="30" y="138" class="label">Commits (last year)</text><text x="425" y="138" class="value" text-anchor="end">262</text>
+<text x="30" y="138" class="label">Commits (last year)</text><text x="425" y="138" class="value" text-anchor="end">265</text>
 <text x="30" y="163" class="label">Pull Requests</text><text x="425" y="163" class="value" text-anchor="end">44</text>
 <text x="30" y="188" class="label">Issues</text><text x="425" y="188" class="value" text-anchor="end">22</text>
 <text x="30" y="213" class="label">Public Repositories</text><text x="425" y="213" class="value" text-anchor="end">4</text>
-  <rect x="575.00" y="82" width="167.24" height="12" fill="#3178c6"/>
-<rect x="742.24" y="82" width="118.56" height="12" fill="#41b883"/>
-<rect x="860.80" y="82" width="25.35" height="12" fill="#3572A5"/>
-<rect x="886.15" y="82" width="6.68" height="12" fill="#a371f7"/>
-<rect x="892.83" y="82" width="5.30" height="12" fill="#8b949e"/>
-<rect x="898.13" y="82" width="3.66" height="12" fill="#e34c26"/>
-<rect x="901.79" y="82" width="1.30" height="12" fill="#f1e05a"/>
-<rect x="903.09" y="82" width="1.02" height="12" fill="#919bff"/>
-<rect x="904.11" y="82" width="0.89" height="12" fill="#8b949e"/>
-  <circle cx="579" cy="118" r="4" fill="#3178c6"/><text x="590" y="122" class="language-name">TypeScript</text><text x="728" y="122" class="language-share" text-anchor="end">50.68%</text>
-<circle cx="749" cy="118" r="4" fill="#41b883"/><text x="760" y="122" class="language-name">Vue</text><text x="898" y="122" class="language-share" text-anchor="end">35.93%</text>
-<circle cx="579" cy="138" r="4" fill="#3572A5"/><text x="590" y="142" class="language-name">Python</text><text x="728" y="142" class="language-share" text-anchor="end">7.68%</text>
-<circle cx="749" cy="138" r="4" fill="#a371f7"/><text x="760" y="142" class="language-name">CSS</text><text x="898" y="142" class="language-share" text-anchor="end">2.02%</text>
-<circle cx="579" cy="158" r="4" fill="#8b949e"/><text x="590" y="162" class="language-name">Astro</text><text x="728" y="162" class="language-share" text-anchor="end">1.61%</text>
-<circle cx="749" cy="158" r="4" fill="#e34c26"/><text x="760" y="162" class="language-name">HTML</text><text x="898" y="162" class="language-share" text-anchor="end">1.11%</text>
-<circle cx="579" cy="178" r="4" fill="#f1e05a"/><text x="590" y="182" class="language-name">JavaScript</text><text x="728" y="182" class="language-share" text-anchor="end">0.39%</text>
-<circle cx="749" cy="178" r="4" fill="#919bff"/><text x="760" y="182" class="language-name">Lua</text><text x="898" y="182" class="language-share" text-anchor="end">0.31%</text>
-<circle cx="579" cy="198" r="4" fill="#8b949e"/><text x="590" y="202" class="language-name">Other</text><text x="728" y="202" class="language-share" text-anchor="end">0.27%</text>
-  <text x="30" y="229" class="muted">Last refreshed: 2026-11-24 12:15 UTC</text>
+  <rect x="575.00" y="82" width="163.30" height="12" fill="#3178c6"/>
+<rect x="738.30" y="82" width="115.78" height="12" fill="#41b883"/>
+<rect x="854.08" y="82" width="32.02" height="12" fill="#3572A5"/>
+<rect x="886.10" y="82" width="6.52" height="12" fill="#a371f7"/>
+<rect x="892.62" y="82" width="5.18" height="12" fill="#8b949e"/>
+<rect x="897.80" y="82" width="3.58" height="12" fill="#e34c26"/>
+<rect x="901.38" y="82" width="1.26" height="12" fill="#f1e05a"/>
+<rect x="902.64" y="82" width="1.00" height="12" fill="#919bff"/>
+<rect x="903.64" y="82" width="1.36" height="12" fill="#8b949e"/>
+  <circle cx="579" cy="118" r="4" fill="#3178c6"/><text x="590" y="122" class="language-name">TypeScript</text><text x="728" y="122" class="language-share" text-anchor="end">49.49%</text>
+<circle cx="749" cy="118" r="4" fill="#41b883"/><text x="760" y="122" class="language-name">Vue</text><text x="898" y="122" class="language-share" text-anchor="end">35.08%</text>
+<circle cx="579" cy="138" r="4" fill="#3572A5"/><text x="590" y="142" class="language-name">Python</text><text x="728" y="142" class="language-share" text-anchor="end">9.71%</text>
+<circle cx="749" cy="138" r="4" fill="#a371f7"/><text x="760" y="142" class="language-name">CSS</text><text x="898" y="142" class="language-share" text-anchor="end">1.98%</text>
+<circle cx="579" cy="158" r="4" fill="#8b949e"/><text x="590" y="162" class="language-name">Astro</text><text x="728" y="162" class="language-share" text-anchor="end">1.57%</text>
+<circle cx="749" cy="158" r="4" fill="#e34c26"/><text x="760" y="162" class="language-name">HTML</text><text x="898" y="162" class="language-share" text-anchor="end">1.09%</text>
+<circle cx="579" cy="178" r="4" fill="#f1e05a"/><text x="590" y="182" class="language-name">JavaScript</text><text x="728" y="182" class="language-share" text-anchor="end">0.38%</text>
+<circle cx="749" cy="178" r="4" fill="#919bff"/><text x="760" y="182" class="language-name">Lua</text><text x="898" y="182" class="language-share" text-anchor="end">0.30%</text>
+<circle cx="579" cy="198" r="4" fill="#8b949e"/><text x="590" y="202" class="language-name">Other</text><text x="728" y="202" class="language-share" text-anchor="end">0.41%</text>
+  <text x="30" y="229" class="muted">Last refreshed: 2026-11-24 22:41 UTC</text>
 </svg>
